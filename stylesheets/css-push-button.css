@@ -1,4 +1,4 @@
-.push_button {
+.push-button {
   display: inline-block;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -7,29 +7,29 @@
   -moz-box-shadow: 0 8px 0 #757575, 0 15px 20px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #757575, 0 15px 20px rgba(0, 0, 0, 0.35);
 }
-.push_button:hover {
+.push-button:hover {
   -webkit-box-shadow: 0 8px 0 #757575, 0 12px 15px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #757575, 0 12px 15px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #757575, 0 12px 15px rgba(0, 0, 0, 0.35);
 }
-.push_button:hover span {
+.push-button:hover span {
   -webkit-transform: translate(0, 2px);
   -moz-transform: translate(0, 2px);
   -o-transform: translate(0, 2px);
   transform: translate(0, 2px);
 }
-.push_button:active {
+.push-button:active {
   -webkit-box-shadow: 0 8px 0 #757575, 0 12px 10px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #757575, 0 12px 10px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #757575, 0 12px 10px rgba(0, 0, 0, 0.35);
 }
-.push_button:active span {
+.push-button:active span {
   -webkit-transform: translate(0, 4px);
   -moz-transform: translate(0, 4px);
   -o-transform: translate(0, 4px);
   transform: translate(0, 4px);
 }
-.push_button span {
+.push-button span {
   display: inline-block;
   padding: 10px  20px;
   font-family: "cooper-black-std-1", "cooper-black-std-2";
@@ -42,7 +42,7 @@
   -moz-border-radius: 8px;
   border-radius: 8px;
 }
-.push_button.red {
+.push-button.red {
   display: inline-block;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -51,29 +51,29 @@
   -moz-box-shadow: 0 8px 0 #b80008, 0 15px 20px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #b80008, 0 15px 20px rgba(0, 0, 0, 0.35);
 }
-.push_button.red:hover {
+.push-button.red:hover {
   -webkit-box-shadow: 0 8px 0 #b80008, 0 12px 15px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #b80008, 0 12px 15px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #b80008, 0 12px 15px rgba(0, 0, 0, 0.35);
 }
-.push_button.red:hover span {
+.push-button.red:hover span {
   -webkit-transform: translate(0, 2px);
   -moz-transform: translate(0, 2px);
   -o-transform: translate(0, 2px);
   transform: translate(0, 2px);
 }
-.push_button.red:active {
+.push-button.red:active {
   -webkit-box-shadow: 0 8px 0 #b80008, 0 12px 10px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #b80008, 0 12px 10px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #b80008, 0 12px 10px rgba(0, 0, 0, 0.35);
 }
-.push_button.red:active span {
+.push-button.red:active span {
   -webkit-transform: translate(0, 4px);
   -moz-transform: translate(0, 4px);
   -o-transform: translate(0, 4px);
   transform: translate(0, 4px);
 }
-.push_button.red span {
+.push-button.red span {
   display: inline-block;
   padding: 10px  20px;
   font-family: "cooper-black-std-1", "cooper-black-std-2";
@@ -86,7 +86,7 @@
   -moz-border-radius: 8px;
   border-radius: 8px;
 }
-.push_button.green {
+.push-button.green {
   display: inline-block;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -95,29 +95,29 @@
   -moz-box-shadow: 0 8px 0 #00ab0a, 0 15px 20px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #00ab0a, 0 15px 20px rgba(0, 0, 0, 0.35);
 }
-.push_button.green:hover {
+.push-button.green:hover {
   -webkit-box-shadow: 0 8px 0 #00ab0a, 0 12px 15px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #00ab0a, 0 12px 15px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #00ab0a, 0 12px 15px rgba(0, 0, 0, 0.35);
 }
-.push_button.green:hover span {
+.push-button.green:hover span {
   -webkit-transform: translate(0, 2px);
   -moz-transform: translate(0, 2px);
   -o-transform: translate(0, 2px);
   transform: translate(0, 2px);
 }
-.push_button.green:active {
+.push-button.green:active {
   -webkit-box-shadow: 0 8px 0 #00ab0a, 0 12px 10px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #00ab0a, 0 12px 10px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #00ab0a, 0 12px 10px rgba(0, 0, 0, 0.35);
 }
-.push_button.green:active span {
+.push-button.green:active span {
   -webkit-transform: translate(0, 4px);
   -moz-transform: translate(0, 4px);
   -o-transform: translate(0, 4px);
   transform: translate(0, 4px);
 }
-.push_button.green span {
+.push-button.green span {
   display: inline-block;
   padding: 10px  20px;
   font-family: "cooper-black-std-1", "cooper-black-std-2";
@@ -130,7 +130,7 @@
   -moz-border-radius: 8px;
   border-radius: 8px;
 }
-.push_button.orange {
+.push-button.orange {
   display: inline-block;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -139,29 +139,29 @@
   -moz-box-shadow: 0 8px 0 #c34900, 0 15px 20px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #c34900, 0 15px 20px rgba(0, 0, 0, 0.35);
 }
-.push_button.orange:hover {
+.push-button.orange:hover {
   -webkit-box-shadow: 0 8px 0 #c34900, 0 12px 15px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #c34900, 0 12px 15px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #c34900, 0 12px 15px rgba(0, 0, 0, 0.35);
 }
-.push_button.orange:hover span {
+.push-button.orange:hover span {
   -webkit-transform: translate(0, 2px);
   -moz-transform: translate(0, 2px);
   -o-transform: translate(0, 2px);
   transform: translate(0, 2px);
 }
-.push_button.orange:active {
+.push-button.orange:active {
   -webkit-box-shadow: 0 8px 0 #c34900, 0 12px 10px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #c34900, 0 12px 10px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #c34900, 0 12px 10px rgba(0, 0, 0, 0.35);
 }
-.push_button.orange:active span {
+.push-button.orange:active span {
   -webkit-transform: translate(0, 4px);
   -moz-transform: translate(0, 4px);
   -o-transform: translate(0, 4px);
   transform: translate(0, 4px);
 }
-.push_button.orange span {
+.push-button.orange span {
   display: inline-block;
   padding: 10px  20px;
   font-family: "cooper-black-std-1", "cooper-black-std-2";
@@ -174,7 +174,7 @@
   -moz-border-radius: 8px;
   border-radius: 8px;
 }
-.push_button.purple {
+.push-button.purple {
   display: inline-block;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -183,29 +183,29 @@
   -moz-box-shadow: 0 8px 0 #8500e6, 0 15px 20px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #8500e6, 0 15px 20px rgba(0, 0, 0, 0.35);
 }
-.push_button.purple:hover {
+.push-button.purple:hover {
   -webkit-box-shadow: 0 8px 0 #8500e6, 0 12px 15px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #8500e6, 0 12px 15px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #8500e6, 0 12px 15px rgba(0, 0, 0, 0.35);
 }
-.push_button.purple:hover span {
+.push-button.purple:hover span {
   -webkit-transform: translate(0, 2px);
   -moz-transform: translate(0, 2px);
   -o-transform: translate(0, 2px);
   transform: translate(0, 2px);
 }
-.push_button.purple:active {
+.push-button.purple:active {
   -webkit-box-shadow: 0 8px 0 #8500e6, 0 12px 10px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #8500e6, 0 12px 10px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #8500e6, 0 12px 10px rgba(0, 0, 0, 0.35);
 }
-.push_button.purple:active span {
+.push-button.purple:active span {
   -webkit-transform: translate(0, 4px);
   -moz-transform: translate(0, 4px);
   -o-transform: translate(0, 4px);
   transform: translate(0, 4px);
 }
-.push_button.purple span {
+.push-button.purple span {
   display: inline-block;
   padding: 10px  20px;
   font-family: "cooper-black-std-1", "cooper-black-std-2";
@@ -218,7 +218,7 @@
   -moz-border-radius: 8px;
   border-radius: 8px;
 }
-.push_button.blue {
+.push-button.blue {
   display: inline-block;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -227,29 +227,29 @@
   -moz-box-shadow: 0 8px 0 #0f538c, 0 15px 20px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #0f538c, 0 15px 20px rgba(0, 0, 0, 0.35);
 }
-.push_button.blue:hover {
+.push-button.blue:hover {
   -webkit-box-shadow: 0 8px 0 #0f538c, 0 12px 15px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #0f538c, 0 12px 15px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #0f538c, 0 12px 15px rgba(0, 0, 0, 0.35);
 }
-.push_button.blue:hover span {
+.push-button.blue:hover span {
   -webkit-transform: translate(0, 2px);
   -moz-transform: translate(0, 2px);
   -o-transform: translate(0, 2px);
   transform: translate(0, 2px);
 }
-.push_button.blue:active {
+.push-button.blue:active {
   -webkit-box-shadow: 0 8px 0 #0f538c, 0 12px 10px rgba(0, 0, 0, 0.35);
   -moz-box-shadow: 0 8px 0 #0f538c, 0 12px 10px rgba(0, 0, 0, 0.35);
   box-shadow: 0 8px 0 #0f538c, 0 12px 10px rgba(0, 0, 0, 0.35);
 }
-.push_button.blue:active span {
+.push-button.blue:active span {
   -webkit-transform: translate(0, 4px);
   -moz-transform: translate(0, 4px);
   -o-transform: translate(0, 4px);
   transform: translate(0, 4px);
 }
-.push_button.blue span {
+.push-button.blue span {
   display: inline-block;
   padding: 10px  20px;
   font-family: "cooper-black-std-1", "cooper-black-std-2";
